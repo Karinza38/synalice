@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @synalice
 - 👀 I’m interested in learning programming and getting a job as a back-end or probably full-stack software dev.
-- 🌱 I’m currently learning some javascript, node.js, databases and bit of Django in the future.
+- 🌱 I’m currently working on some telegram bots and web projects with plans of using Django in the future.
 - 💞️ I’m looking to collaborate on the back-end of any web projects out there.
 - 📫 You can reach me on telegram (@synalice) or Discord (synalice#4642).
 
