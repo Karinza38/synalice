@@ -1,8 +1,8 @@
-- 👋 Hi, I'm Nikita.
-- 👀 I’m interested in programming and getting a job as a back-end software dev.
-- 🌱 I’m currently working on a telegram bot and some web projects.
-- 💙 I’m looking to collaborate on any web projects out there. Although, something else would also be interesting.
-- 📫 You can reach me on telegram (@synalice), Discord (synalice#4642) or send an e-mail (nikita.nikita.krasnov@gmail.com).
+👋 Hi, I'm Nikita.  
+✨ I’m in interested in getting a job as a back-end software dev.  
+🌱 I’m currently working on a telegram bot and have some plans for other projects.  
+💙 I’m really looking forward to collaborate on any web projects. Something from a different field would also be very interesting!  
+📫 You can reach me on telegram (@synalice), Discord (synalice#4642) or send an e-mail (nikita.nikita.krasnov@gmail.com).
 
 <!---
 synalice/synalice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
