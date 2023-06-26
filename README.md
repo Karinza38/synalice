@@ -1,4 +1,3 @@
-✨ Hi, I'm Nikita! I am a beginner software developer from Russia.  
-💾 I am interested in backend, web and working with Linux.  
-💙 I'm looking to collaborate on some projects!  
-📫 You can reach me at nikita.nikita.krasnov@gmail.com
+✨ Hi, I'm Nikita! I am a software developer from Russia.  
+💙 I am very interested in backend, web and low level programming.  
+📫 Subscribe to my [Telegram channel](https://t.me/archivehornika) or write an [email](nikita.nikita.krasnov@gmail.com)! 
